@@ -209,4 +209,5 @@ Last revision date: May 25, 2020 12:57:07 AM
 Last review date: Aug 3, 2020 12:15:09 AM
 
 
-Source: https://www.senecacollege.ca/ssos/printOutline.do?subjectCode=OOP345&schoolCode=SICT&termCode=20203&state=both&submit=Print+preview
+All the readMe files and provided files are from the official github account of Seneca College OOP345 course.
+Source(Link): https://www.senecacollege.ca/ssos/printOutline.do?subjectCode=OOP345&schoolCode=SICT&termCode=20203&state=both&submit=Print+preview
